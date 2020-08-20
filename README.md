@@ -1,6 +1,9 @@
 # semanticencoder
 A simple script to create semantic 2D encodings of texts for later display in 2D scatterplot
 
+### Dependencies
+See requirements.txt
+
 Note, if you don't want to produce your own examples, just use exampledata.json as example output of this process
 ### Running instructions
 1. Download the Universal Sentence Encoder https://tfhub.dev/google/universal-sentence-encoder-lite/2 (this is the smallest model and still gives good results, we can use a larger model if required)
